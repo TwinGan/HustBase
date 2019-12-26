@@ -1,2 +1,0 @@
-# HustBase
-Hust database
